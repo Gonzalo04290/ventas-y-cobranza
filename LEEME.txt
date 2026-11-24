@@ -1,0 +1,19 @@
+MI SISTEMA DE VENTAS Y COBRANZA — paquete instalable (PWA)
+
+Este paquete prepara la aplicación para instalarse desde el navegador en Android y computadora.
+No es una aplicación publicada en Google Play Store.
+
+IMPORTANTE:
+- Debe alojarse en un sitio HTTPS para que Chrome permita instalarla.
+- Esta versión conserva los datos en el navegador/dispositivo, como el prototipo original.
+- Todavía NO sincroniza automáticamente entre celular y computadora.
+- Para sincronizar hace falta configurar una base de datos en la nube y permisos de acceso.
+- Antes de cargar datos reales, conviene configurar esa sincronización y probar copias de seguridad.
+
+Instalación Android (una vez alojada en HTTPS):
+1. Abrir el enlace en Google Chrome.
+2. Tocar el menú ⋮.
+3. Elegir "Instalar aplicación" o "Agregar a pantalla principal".
+4. Confirmar.
+
+No compartir el enlace: los datos no tienen inicio de sesión en esta versión.
